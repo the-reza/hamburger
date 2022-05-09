@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hamburger/static/css/main.d5951c19.css",
+    "main.js": "/hamburger/static/js/main.7a661634.js",
+    "index.html": "/hamburger/index.html",
+    "main.d5951c19.css.map": "/hamburger/static/css/main.d5951c19.css.map",
+    "main.7a661634.js.map": "/hamburger/static/js/main.7a661634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5951c19.css",
+    "static/js/main.7a661634.js"
+  ]
+}
